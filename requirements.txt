@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+ydata-profiling
+ipywidgets
+scikit-learn
+xgboost
+flask
